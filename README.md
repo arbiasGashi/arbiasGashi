@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arbiasGashi
-- 👀 I’m interested in C#, Xamarin Forms, SQL, Data structures, Software Architecture etc
-- 🌱 I’m currently learning Clean Architecture, Microservices, RabbitMQ & Kafka
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C#, Angular, Xamarin Forms, SQL, Data structures, Software Architecture etc
 - 📫 How to reach me - arbias.gashi@outlook.com
 
 <!---
